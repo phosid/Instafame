@@ -1,5 +1,5 @@
 # Instafame
-This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
+This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed!
 
 # Part I
 Time spent: **5** hours spent in total
@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/T77x4osFWC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/T77x4osFWC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />a
