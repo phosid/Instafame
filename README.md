@@ -1,8 +1,12 @@
 # Instafame
-This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
+This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed!
 
 # Part I
 Time spent: **5** hours spent in total
+
+# How to use:
+- Make sure to change the AppDelegate.swift file to include your unique Parse AppID and ClientKey!
+- Since we have pods installed, run the workspace file after installing the necessary pods.
 
 ## User Stories
 
@@ -23,4 +27,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/GCSwXzKEUX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
