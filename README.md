@@ -4,6 +4,10 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 # Part I
 Time spent: **5** hours spent in total
 
+# How to use:
+- Make sure to change the AppDelegate.swift file to include your unique Parse AppID and ClientKey!
+- Since we have pods installed, run the workspace file after installing the necessary pods.
+
 ## User Stories
 
 The following **required** functionality is completed:
