@@ -18,6 +18,9 @@ class CameraViewController: UIViewController, UIImagePickerControllerDelegate, U
 
         // Do any additional setup after loading the view.
     }
+    @IBAction func onCancel(_ sender: Any) {
+        self.dismiss(animated: true, completion: nil)
+    }
     
     @IBAction func onSubmit(_ sender: Any) {
         
