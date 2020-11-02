@@ -23,6 +23,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/65s4q8oJlZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='http://g.recordit.co/ChfzIAVkGE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 # Part I
 Time spent: **5** hours spent in total
